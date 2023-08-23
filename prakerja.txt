@@ -2,3 +2,5 @@ Hallo Saya Rudi
 ini perubahan dari developer B
 ini tamhaban dari developer A
 ini tambahan dari developer B
+
+ini perubahan di branch dev
