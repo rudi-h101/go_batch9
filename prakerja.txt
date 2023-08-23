@@ -4,3 +4,5 @@ ini tamhaban dari developer A
 ini tambahan dari developer B
 
 ini perubahan di branch dev
+
+ini perubahan di branch featureB
