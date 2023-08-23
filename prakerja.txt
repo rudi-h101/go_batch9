@@ -6,3 +6,4 @@ ini tambahan dari developer B
 ini perubahan di branch dev
 
 ini perubahan di branch featureB
+ini perubahan di branch featureA
