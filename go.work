@@ -1,0 +1,7 @@
+go 1.21.0
+
+use (
+	./day2/bilangan_prima
+	./day2/kelipatan7
+	./day2/luas_trapesium
+)
